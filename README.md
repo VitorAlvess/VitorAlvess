@@ -1,9 +1,12 @@
 <p align="center">
 ### Olá, Bem vindo(a) :) 👋
+ </p>
 <p align="center">
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlvess&hide=html&layout=compact&theme=Tokyonight)](https://github.com/VitorAlvess)
+ </p>
 <!--
 **VitorAlvess/VitorAlvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
