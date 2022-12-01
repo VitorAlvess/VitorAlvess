@@ -1,4 +1,9 @@
 <p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+
+<p align="center">
 Olá, Bem vindo(a) :) 👋
 </p>
 
@@ -10,6 +15,3 @@ Olá, Bem vindo(a) :) 👋
 </div>
 
 <br>
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
